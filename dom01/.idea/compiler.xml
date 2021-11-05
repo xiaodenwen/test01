@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dom02" />
+        <module name="dubbo-interfece" />
+        <module name="dom03" />
+        <module name="dubbo-xiaofeizhe" />
+        <module name="dom01" />
+        <module name="ch01" />
+        <module name="dubbo-tigonzhe" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DubboZhiLian01" target="1.8" />
+      <module name="DubboZhiLian02" target="1.8" />
+      <module name="er1" target="1.8" />
+      <module name="ererzi" target="1.8" />
+      <module name="erzi" target="1.8" />
+      <module name="erzi1" target="1.5" />
+      <module name="erzi2" target="1.5" />
+      <module name="laozi" target="1.8" />
+      <module name="laozi1" target="1.5" />
+      <module name="s" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
